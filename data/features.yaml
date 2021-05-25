@@ -1,0 +1,81 @@
+about:
+  name: Anton Filimonov
+  tagline: Software Engineer for Fun and Profit
+  #phone: ""
+  email: anton (dot) filimonov (at) gmail.com
+  links:
+    - title: /in/variar
+      url: https://tr.linkedin.com/in/variar
+      icon: fab fa-linkedin
+    - title: variar
+      url: https://github.com/variar
+      icon: fab fa-github
+  details: |
+    Open-minded, well-organized, enthusiastic but calm, I am experienced in
+    working alone fully concentrating on a hard task as well as organizing the work
+    of others. I am reliable, hard working, flexible and quick to learn. Developing
+    software systems is not only my job but also a hobby.
+
+languages:
+  - name: Russian
+    level: Native
+
+  - name: English
+    level: Fluent
+
+skills:
+  - groupName: Programming languages
+    list:
+      - C++
+      - C# 
+      - Golang
+      - SQL
+  
+  - groupName: Frameworks
+    list:
+      - C++ STL
+      - boost
+      - Qt
+      - catch2
+      - googletest
+  
+  - groupName: Software development
+    list:
+      - SOLID
+      - TDD
+      - Design patterns
+
+
+interests:
+  - Learning new things
+  - Solving problems
+  - Creating software systems
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Tübitak - Graduation Project"
+    date: "2017"
+    subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: example
+        url: https://mertbakir.gitlab.io
+        icon: fas fa-bolt
+        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+      - title: second link.
+        url: https://esdfdsfdsf
+        icon: "-" # you can get rid of the icon by entering dummy text
+        prefix: "omg"
+
+certificates:
+  - title: "Supervised Learning: Regression"
+    subtitle: Coursera
+    date: "2020"
+    link: https://xkcd.com/605/ # This link will be on title level.
+
+  - title: "Supervised Learning: Classification"
+    subtitle: Coursera
+    date: "2020"
+    link: https://xkcd.com/388/

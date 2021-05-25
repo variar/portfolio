@@ -1,0 +1,50 @@
+- company: Kaspersky
+  roles: 
+    - role: Senior Software Architect
+      details: "Currently I am working as a team leader for a small group of software
+                developers. I continue to analyse user stories and design product features that
+                involve not only my team but several others. To do my planning and team management tasks more efficiently I am
+                developing a personal planning system using Golang and Javascript
+                components." 
+      date: "12.2020 - present"
+
+    - role: Software Architect
+      details: "Aside from designing new features, I took part in planning
+                development iterations. I had to collect time
+                estimations from all the involved teams, discover bottlenecks and possible
+                risks, communicate with other teams to get required resources and then
+                present development plans to managers." 
+      date: "05.2020 - 11.2020"
+
+    - role: Senior Software Developer
+      details: "I became responsible for designing and implementing several new
+                product features for our users. I worked together with product managers,
+                system analysts as well as several internal components teams."
+      date: "05.2015 - 04.2020"
+    
+    - role: Software Developer
+      date: "09.2012 - 04.2015"
+      details: "I got involved in developing UI and backend for several components of
+                Kaspersky Total Security product line. Later I lead a small development
+                team that converted a B2C product into a version for small business"
+
+- company: Bezopasnost Company
+  roles:
+    - role: Development team lead
+      details: "I coordinated a group of software developers and test engineers
+               developing our core components as well as
+                several client applications. During this period I also took a leading role for
+                several on-site installation projects to make sure our software serves our
+                clients in a best way possible."
+      date: "05.2012 – 09.2012"
+    - role: Senior Software developer
+      details: "I got involved in designing distributed architecture for our main product,
+                developed data synchronization components.
+                Another big project of mine was a cross-platform multimedia framework
+                for video surveillance applications."
+      date: "07.2011 – 04.2012"
+    - role: Software developer
+      details: "I designed and implemented cross-platform UI components library
+                based on Qt4 framework. Also I developed database structure, database abstraction layer 
+                and several backends (SQLite, PostgreSQL, Oracle)."
+      date: "11.2006 – 06.2011"

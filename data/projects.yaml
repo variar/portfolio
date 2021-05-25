@@ -1,0 +1,50 @@
+projects:
+- title: "Klogg - a fast, smart log explorer"
+  subtitle: ""
+  link: "https://klogg.filimonov.dev"
+  date: "2016 - present"
+  details: |
+    Klogg started as a fork of glogg log viewer but now it
+    is far more advanced. It is a C++ cross-platform 
+    desktop application built using Qt and Intel TBB libraries.
+    The main focus is performance. Klogg is my tool of choice 
+    for analyzing multi-gigabyte log files.
+  links:
+  - title: GitHub repository
+    url: https://github.com/variar/klogg
+    icon: fab fa-github
+  
+
+- title: "Grav Unitegallery Plugin"
+  subtitle: ""
+  link: "https://github.com/variar/grav-plugin-unitegallery"
+  date: "2017"
+  details: |
+    Unitegallery is a Grav CMS Plugin that provides Twig extension
+    for creating images gallery using Unitegallery javascript library
+
+- title: "Telegram bot framework"
+  subtitle: ""
+  link: "https://github.com/variar/gotbot"
+  date: "2016 - present"
+  details: |
+    Gotbot is a small framework for creating Telegram Bots written in Golang.
+
+- title: "GeoNames golang client"
+  subtitle: ""
+  link: "https://github.com/variar/go-geonames-client"
+  date: "2017"
+  details: |
+    go-geonames-client is a set of small packages that provide access to GeoNames web-services API.
+
+- title: "Dropbox Fake"
+  subtitle: ""
+  link: "https://github.com/variar/go-geonames-client"
+  date: "2017"
+  details: |
+    Dropbox Fake is an implementation of Dropbox REST API v1 that can be used for testing. 
+    I used this project to learn more about node.js. Later I've created a .net Core implementation
+    of REST API v2 that is used at Kaspersky.
+
+    
+    
