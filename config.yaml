@@ -1,4 +1,4 @@
-baseURL: "https://filimonov.dev"
+baseURL: "https://cv.filimonov.dev/"
 languageCode: "en-us"
 title: "Resume | ANTON FILIMONOV"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
