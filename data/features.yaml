@@ -28,22 +28,30 @@ skills:
     list:
       - C++
       - C# 
-      - Golang
+      - Go
+      - Python
       - SQL
+      - JS
   
   - groupName: Frameworks
     list:
       - C++ STL
-      - boost
+      - Boost
       - Qt
-      - catch2
-      - googletest
+      - Intel TBB
+
   
   - groupName: Software development
     list:
-      - SOLID
-      - TDD
+      - OOP
       - Design patterns
+      - Unit testing
+
+  - groupName: Technologies
+    list:
+      - Docker
+      - Redis
+      - PostgreSQL
 
 
 interests:
