@@ -67,10 +67,11 @@ params:
     - features:
         - feature: about
           title: About Me
+        - feature: experience
+        
+    - features:
         - feature: projects
           collection: projects
-    - features:
-        - feature: experience
         - feature: publications
           style: IEEE # IEEE, APA, else
         
